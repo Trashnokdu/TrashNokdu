@@ -1,1 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=TrashNokdu&fontSize=90)
+<span style="color: red">red</span>
+***
+![TrashNokdu's GitHub stats](https://github-readme-stats.vercel.app/api?username=TrashNokdu)
