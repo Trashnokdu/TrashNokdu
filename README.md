@@ -9,4 +9,6 @@
 ### Stats
 ![TrashNokdu's GitHub stats](https://github-readme-stats.vercel.app/api?username=TrashNokdu)
 ***
-### 하는거 없음
+### 디자인 감각 쓰레기
+### 백엔드 깨부중
+### API 잘씀
