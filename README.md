@@ -7,6 +7,5 @@
 ### Stats
 ![TrashNokdu's GitHub stats](https://github-readme-stats.vercel.app/api?username=TrashNokdu)
 ***
-### 디자인 감각 쓰레기
 ### 백엔드 깨부중
 ### 서버관리 할줄 알지만 못해요
