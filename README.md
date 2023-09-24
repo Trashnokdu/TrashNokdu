@@ -4,6 +4,7 @@
 ![Css](https://img.shields.io/badge/Css-1572B6?style=for-the-badge&logo=Css3&logoColor=White)
 ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white)
 ![Express](https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Nestjs](https://img.shields.io/badge/nestjs-E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ***
 ### Stats
 ![TrashNokdu's GitHub stats](https://github-readme-stats.vercel.app/api?username=TrashNokdu)
