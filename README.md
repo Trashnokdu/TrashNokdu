@@ -2,7 +2,7 @@
 ***
 ![Nextjs](https://img.shields.io/badge/Nextjs-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Css](https://img.shields.io/badge/Css-1572B6?style=for-the-badge&logo=Css3&logoColor=White)
-![Typescript](https://img.shields.io/badge/Typescript-3178C6-F7DF1E.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Typescript](https://img.shields.io/badge/Typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Express](https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Nestjs](https://img.shields.io/badge/Nestjs-E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ***
