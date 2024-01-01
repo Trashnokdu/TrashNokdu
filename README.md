@@ -10,5 +10,6 @@
 ![TrashNokdu's GitHub stats](https://github-readme-stats.vercel.app/api?username=TrashNokdu)
 ***
 ### 디자인감각 쓰레기
-### 백엔드 깨부중
-### 우분투 및 윈도우서버 관리가능합니다
+### 프론트엔드는 못해요
+### 백엔드는 무한깨부중이에요
+### 우분투 및 윈도우서버 관리가능해요
