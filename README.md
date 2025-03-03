@@ -9,7 +9,7 @@
 ### Stats
 ![TrashNokdu's GitHub stats](https://github-readme-stats.vercel.app/api?username=TrashNokdu)
 ***
-### 디자인감각 쓰레기
-### 프론트엔드는 못해요
+### 디자인감각 없음
+### 프론트엔드는 잘 못해요
 ### 백엔드는 깔끔하게합니다
 ### 우분투 및 윈도우서버 관리가능해요
